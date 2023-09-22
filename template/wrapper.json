@@ -1,0 +1,19 @@
+{
+  "header": {
+  },
+  "forms": [
+    {
+      "textfield": [
+        {
+          "name": "text1_not_lock",
+          "value": "吃asdsa阿萨德",
+          "locked": true
+        },
+        {
+          "name": "text2_lock",
+          "value": "Filled using Text."
+        }
+      ]
+    }
+  ]
+}
